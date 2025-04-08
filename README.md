@@ -27,11 +27,9 @@ I’m currently exploring the world of analytics and building my portfolio with 
 I once served as a State Time Keeper and now I'm keeping track of time with data! ⏳📊  
 I love turning complex data into easy-to-understand visual insights!
 
----
-
-## 🔧 Tools & Technologies I Use:
-- **Excel** | **Power BI** | **SQL** | **Python**
-- **Tableau Public** | **Jupyter Notebooks** | **Git & GitHub**
+🔧 Tools & Technologies I Use:
+- **Excel | Power BI | SQL | Python
+- Goofle Colab | Git & GitHub
 
 💬 Let's Connect:
 Feel free to reach out if you want to collaborate, discuss data projects, or chat about the latest trends in data analytics. Let's turn data into insights together! 🚀
