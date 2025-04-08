@@ -2,6 +2,7 @@
 Data Analyst | Excel, Power BI, SQL, Python
 
 💼 About Me
+
 I’m Williams Idara, a Data Analyst who believes that data has the power to tell stories that shape better decisions. With expertise in tools like Excel, Power BI, SQL, and Python, I take messy data and transform it into clear, impactful insights that make a difference.
 
 What excites me most about data analysis is its ability to solve real-world problems — whether it's optimizing business processes or uncovering trends that drive success. I’m always on the lookout for new ways to grow my skills and use data to answer questions that matter.
