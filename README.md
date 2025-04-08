@@ -17,7 +17,6 @@ I’m currently exploring the world of analytics and building my portfolio with 
 
 📈 Portfolio & Links:
 - 💼 [LinkedIn](www.linkedin.com/in/idara-williams)
-- ✍🏽 [Medium]([https://medium.com/@williamsnseidara])
 - 📊 [GitHub Projects](https://github.com/WilliamsIdara) (where my projects live)
 
 📬 Contact Me:
