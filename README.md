@@ -28,7 +28,7 @@ I once served as a State Time Keeper and now I'm keeping track of time with data
 I love turning complex data into easy-to-understand visual insights!
 
 🔧 Tools & Technologies I Use:
-- **Excel | Power BI | SQL | Python
+- Excel | Power BI | SQL | Python
 - Goofle Colab | Git & GitHub
 
 💬 Let's Connect:
